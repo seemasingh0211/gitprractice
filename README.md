@@ -2,7 +2,7 @@
 
 ## Ineuron
 
-##GITHUB Tutorials
+## GITHUB Tutorials
 
-##taking class
+## taking class
 
